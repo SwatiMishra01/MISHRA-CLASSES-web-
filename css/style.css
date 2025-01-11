@@ -435,12 +435,12 @@ nav a:focus {
 }
 h2.tittle {
     font-size: 3.5em;
-    color: #3B5998;
+    color: #e9ebf0;
     text-align: center;
 }
 h3.tittle{
  font-size: 3.5em;
-    color: #3B5998;
+    color: #e9ebf0;
     text-align: center;
 }
 /*-- effect-7 css --*/
@@ -566,33 +566,7 @@ h3.tittle2 {
 .test-grid {
     margin-top: 4em;
 }
-.testimonials-w3 {
-    background: url(../images/ba.jpg) no-repeat 0px 0px;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    min-height: 500px;
-    text-align: center;
-    padding: 5em 0 0;
-}
-.testimonials-w3 h5 {
-    font-size: 2.5em;
-    color: #fff;
-    width: 66%;
-    margin: .5em auto 0;
-    line-height: 1.5em;
-    
-}
-.testimonials-w3 : hover{
-    text-decoration: none;
-}
-.testimonials-w3 p {
-    color: #fff;
-    font-size: 1.2em;
-    text-align: right;
-}
+
 .new-bottom-left {
     width: 38%;
     float: left;
@@ -711,7 +685,7 @@ h3.tittle2 {
 	    border-radius: 20px;
 }
 .social-icons i.icon1:hover {
-  background: #ee6e73  url(../images/img-sprite.png) no-repeat 0px 0px;
+  background: #ee6e73  url(https://i.pinimg.com/736x/c1/45/7e/c1457ec61545d41c3398072daf3cbd53.jpg) no-repeat 0px 0px;
       transform: rotateY(360deg);
 }
 .social-icons i.icon1 {
@@ -721,21 +695,21 @@ h3.tittle2 {
     background-position: -32px 0px;
 }
 .social-icons i.icon2:hover {
-  background: #ee6e73  url(../images/img-sprite.png) no-repeat -32px 0px;
+  background: #ee6e73  url(https://cdn-icons-png.flaticon.com/256/124/124021.png) no-repeat -32px 0px;
       transform: rotateY(360deg);
 }
 .social-icons i.icon3 {
     background-position: -64px 0px;
 }
 .social-icons i.icon3:hover {
-  background: #ee6e73  url(../images/img-sprite.png) no-repeat -64px 0px;
+  background: #ee6e73  url(https://cdn-teams-slug.flaticon.com/google.jpg) no-repeat -64px 0px;
       transform: rotateY(360deg);
 }
 .social-icons i.icon4 {
     background-position: -96px 0px;
 }
 .social-icons i.icon4:hover {
-  background: #ee6e73  url(../images/img-sprite.png) no-repeat -96px 0px;
+  background: #ee6e73  url(https://cdn-icons-png.flaticon.com/512/145/145807.png) no-repeat -96px 0px;
       transform: rotateY(360deg);
 }
 /**about**/
